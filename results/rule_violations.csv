@@ -1,0 +1,15 @@
+rule,dimension,description,violations,pct
+C1_required_nonnull,Completeness,"ID, request date, service, status, close date present",180,0.048
+C2_location_present,Completeness,Latitude/longitude present,399,0.105
+C3_district_present,Completeness,Council district present,1233,0.326
+C4_zip_present,Completeness,Zip code present,7024,1.855
+U1_id_unique,Uniqueness,service_request_id unique,0,0.0
+V1_coords_in_city,Validity,Coordinates inside San Diego bounding box,67,0.018
+V2_district_domain,Validity,Council district in 1..9,0,0.0
+V3_zip_format,Validity,Zip is 5-digit and starts with 919/920/921,5,0.001
+V4_status_domain,Validity,"Status in {Closed, Referred}",0,0.0
+K1_close_after_request,Consistency,day(date_requested) <= date_closed,4,0.001
+K2_age_matches_dates,Consistency,case_age_days == date_closed - day(date_requested),0,0.0
+T1_closed_in_2025,Timeliness,date_closed within 2025,0,0.0
+T2_requested_after_launch,Timeliness,date_requested on/after Get It Done launch (May 2016),0,0.0
+T3_age_nonnegative,Timeliness,case_age_days >= 0,4,0.001

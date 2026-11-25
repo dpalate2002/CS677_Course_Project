@@ -1,0 +1,17 @@
+{
+  "n_records": 378669,
+  "n_columns": 23,
+  "city_labeled_duplicates": 41999,
+  "status_counts": {
+    "Closed": 350711,
+    "Referred": 27958
+  },
+  "naive_timestamp_close_before_request": 111985,
+  "day_granularity_close_before_request": 4,
+  "records_failing_any_detector_rule": 255,
+  "knn_district_inconsistent": 337,
+  "requested_before_2025": 26732,
+  "median_case_age_all": 2.0,
+  "median_case_age_city_dups": 12.0,
+  "median_case_age_non_dups": 2.0
+}

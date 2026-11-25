@@ -1,0 +1,24 @@
+column,dtype,non_null,missing_pct,distinct,min,max
+service_request_id,int64,378669,0.0,378669,82529,5606526
+service_request_parent_id,float64,41999,88.91,25696,91241.0,5510687.0
+sap_notification_number,float64,46831,87.63,46830,40300000147.0,40301093075.0
+date_requested,str,378669,0.0,234677,2016-05-31 14:29:00.000,2026-03-01 11:14:00.000
+case_age_days,int64,378669,0.0,2442,-124,3478
+case_record_type,str,378669,0.0,12,DSD,Traffic Engineering
+service_name,str,378489,0.05,42,Bicycle-Related Issue,Weed Cleanup
+service_name_detail,str,240280,36.55,262, BICYCLE FACILITIES EVALUATE FOR MARKINGS,Yellow Commercial Zone
+date_closed,str,378669,0.0,365,2025-01-01,2025-12-31
+status,str,378669,0.0,2,Closed,Referred
+lat,float64,378270,0.11,321560,-32.6509652,49.2080403
+lng,float64,378270,0.11,319863,-122.917781,151.8977209
+street_address,str,377569,0.29,187351,"#10, 5402 Balboa Arms Dr UNIT 420, San Diego, CA 92117, USA",wightman street & wilson ave
+zipcode,float64,371645,1.85,66,12341.0,95765.0
+council_district,float64,377436,0.33,9,1.0,9.0
+comm_plan_code,float64,377373,0.34,57,1.0,99.0
+comm_plan_name,str,377373,0.34,59,BALBOA PARK,VIA DE LA VALLE
+park_name,str,16043,95.76,368,30TH ST MP,ZENA MP
+case_origin,str,378585,0.02,21,CC Self Generate,Worker App
+referred,str,29992,92.08,14536,Caltrans San Diego,appropriate department or agency
+iamfloc,str,339328,10.39,69634,BR-100055,WS4-PS-PSD
+floc,str,337178,10.96,52199,26735060,SX-018512-005
+public_description,str,312409,17.5,243567,!! DANGEROUS CONDITION !!9th request.   At the Intersection of Sharron Place and Trojan Ave.  ADA access of North side of crosswalk completely obstructed by overgrown plants. Pedestrians and ADA must use the street to go around the encroachment. Highly dangerous especially during MANN MS and CRAWFORD HS drop-off and pick-up times.,Ãtem was clearly visible on the street but was not picked up. Item is still completely full at curbside.

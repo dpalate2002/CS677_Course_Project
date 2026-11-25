@@ -1,0 +1,22 @@
+{
+ "strict_pairs": 78138,
+ "strict_later_records": 38246,
+ "of_which_city_labeled": 11378,
+ "unlabeled_high_conf_dups": 26868,
+ "city_labeled_records_meeting_strict": 0.2709112121717184,
+ "unlabeled_by_origin": {
+  "Mobile": 9857,
+  "Crew/Self Generated": 7504,
+  "Web": 5027,
+  "Worker App": 3030,
+  "Phone": 1295
+ },
+ "unlabeled_by_service": {
+  "Graffiti - Public": 8191,
+  "Parking Violation": 6708,
+  "Illegal Dumping": 3551,
+  "Missed Collection": 1750,
+  "Encampment": 1695,
+  "Parks Issue": 730
+ }
+}

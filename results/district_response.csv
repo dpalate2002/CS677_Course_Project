@@ -1,0 +1,121 @@
+stage,scope,district,n,median,mean,p90,ci_lo,ci_hi
+S0 Raw,All,1,33068,2.0,59.76010039917745,96.0,2.0,2.0
+S0 Raw,All,2,54301,2.0,52.94565477615514,69.0,2.0,3.0
+S0 Raw,All,3,84763,2.0,48.590788433632596,70.0,2.0,2.0
+S0 Raw,All,4,36747,2.0,36.105341932674776,56.0,2.0,3.0
+S0 Raw,All,5,13074,5.0,60.19489062260976,93.0,4.0,5.0
+S0 Raw,All,6,19518,5.0,40.23398913823138,73.0,5.0,5.0
+S0 Raw,All,7,26025,3.0,43.97302593659943,57.0,3.0,4.0
+S0 Raw,All,8,42004,2.0,34.22412151223693,43.0,2.0,2.0
+S0 Raw,All,9,67936,2.0,42.957283325482805,72.0,2.0,2.0
+S0 Raw,All,0,377436,2.0,46.018880022043476,67.0,,
+S0 Raw,Closed only,1,31248,3.0,62.7077892985151,102.0,2.0,3.0
+S0 Raw,Closed only,2,50585,3.0,56.313867747355935,75.0,3.0,3.0
+S0 Raw,Closed only,3,75497,3.0,53.77849450971562,87.0,2.0,3.0
+S0 Raw,Closed only,4,34592,3.0,37.850832562442186,59.0,3.0,3.0
+S0 Raw,Closed only,5,12189,5.0,63.23578636475511,105.0,5.0,5.0
+S0 Raw,Closed only,6,18105,6.0,42.742667771333885,77.0,5.0,6.0
+S0 Raw,Closed only,7,24289,4.0,46.70785129070773,62.0,4.0,4.0
+S0 Raw,Closed only,8,39371,2.0,35.702344365141855,46.0,2.0,3.0
+S0 Raw,Closed only,9,63619,2.0,45.275122211917825,77.0,2.0,2.0
+S0 Raw,Closed only,0,349495,3.0,49.04991487717993,73.0,,
+S1 −Rule violations,All,1,33065,2.0,59.76552245576894,96.0,,
+S1 −Rule violations,All,2,54292,2.0,52.954431592131435,69.0,,
+S1 −Rule violations,All,3,84737,2.0,48.60222807038248,70.0,,
+S1 −Rule violations,All,4,36723,2.0,36.12891103668001,56.0,,
+S1 −Rule violations,All,5,13070,5.0,60.21423106350421,93.0,,
+S1 −Rule violations,All,6,19502,5.0,40.26699825658907,73.0,,
+S1 −Rule violations,All,7,26015,3.0,43.99469536805689,57.0,,
+S1 −Rule violations,All,8,41970,2.0,34.252418394091016,44.0,,
+S1 −Rule violations,All,9,67877,2.0,42.99462262622096,72.0,,
+S1 −Rule violations,All,0,377251,2.0,46.04108935430257,67.0,,
+S1 −Rule violations,Closed only,1,31247,3.0,62.70979614042948,102.0,,
+S1 −Rule violations,Closed only,2,50582,3.0,56.31720770234471,75.0,,
+S1 −Rule violations,Closed only,3,75491,3.0,53.77887430289704,87.0,,
+S1 −Rule violations,Closed only,4,34589,3.0,37.854086559310765,59.0,,
+S1 −Rule violations,Closed only,5,12187,5.0,63.247148600968245,105.0,,
+S1 −Rule violations,Closed only,6,18104,6.0,42.74502872293416,77.0,,
+S1 −Rule violations,Closed only,7,24287,4.0,46.7168032280644,62.0,,
+S1 −Rule violations,Closed only,8,39369,2.0,35.704767710635274,46.0,,
+S1 −Rule violations,Closed only,9,63616,2.0,45.277257293762574,77.0,,
+S1 −Rule violations,Closed only,0,349472,3.0,49.052756730152915,73.0,,
+S2 −City duplicates,All,1,29571,2.0,50.26634202428055,77.0,,
+S2 −City duplicates,All,2,48480,2.0,44.44496699669967,57.0,,
+S2 −City duplicates,All,3,73497,2.0,39.594309971835585,50.0,,
+S2 −City duplicates,All,4,33615,2.0,31.60246913580247,47.0,,
+S2 −City duplicates,All,5,11670,4.0,50.99494430162811,64.0,,
+S2 −City duplicates,All,6,16646,4.0,37.34753093836357,66.0,,
+S2 −City duplicates,All,7,22975,3.0,40.81949945593036,50.0,,
+S2 −City duplicates,All,8,38012,2.0,29.522598126907294,38.0,,
+S2 −City duplicates,All,9,60809,1.0,37.02881152460984,57.0,,
+S2 −City duplicates,All,0,335275,2.0,39.197739169338604,53.0,,
+S2 −City duplicates,Closed only,1,27832,2.0,52.8439925265881,83.0,,
+S2 −City duplicates,Closed only,2,44935,2.0,47.414932680538556,62.0,,
+S2 −City duplicates,Closed only,3,65020,2.0,44.0984466318056,60.0,,
+S2 −City duplicates,Closed only,4,31584,2.0,33.19228090172239,50.0,,
+S2 −City duplicates,Closed only,5,10815,5.0,54.06232085067037,71.0,,
+S2 −City duplicates,Closed only,6,15325,4.0,39.88013050570962,71.0,,
+S2 −City duplicates,Closed only,7,21349,3.0,43.55473324277484,54.20000000000073,,
+S2 −City duplicates,Closed only,8,35588,2.0,30.864280094413846,40.0,,
+S2 −City duplicates,Closed only,9,56840,2.0,39.06759324419423,62.0,,
+S2 −City duplicates,Closed only,0,309288,2.0,41.90808243449471,58.0,,
+S3 −Detected duplicates,All,1,28354,2.0,51.650913451364886,78.0,,
+S3 −Detected duplicates,All,2,45781,2.0,46.10325244096896,58.0,,
+S3 −Detected duplicates,All,3,69902,2.0,40.53742382192212,51.0,,
+S3 −Detected duplicates,All,4,32210,2.0,32.101241850357034,47.0,,
+S3 −Detected duplicates,All,5,11159,4.0,52.297965767541896,66.0,,
+S3 −Detected duplicates,All,6,15736,4.0,38.41287493645145,67.0,,
+S3 −Detected duplicates,All,7,21921,3.0,41.93517631494914,52.0,,
+S3 −Detected duplicates,All,8,35924,2.0,30.343642133392716,38.0,,
+S3 −Detected duplicates,All,9,58105,1.0,37.489131744256085,56.0,,
+S3 −Detected duplicates,All,0,319092,2.0,40.171740438494226,54.0,,
+S3 −Detected duplicates,Closed only,1,26663,2.0,54.35176086711923,85.0,,
+S3 −Detected duplicates,Closed only,2,42387,2.0,49.232429754405835,63.0,,
+S3 −Detected duplicates,Closed only,3,61835,2.0,45.156707366378264,62.0,,
+S3 −Detected duplicates,Closed only,4,30269,2.0,33.701146387393045,50.0,,
+S3 −Detected duplicates,Closed only,5,10330,5.0,55.486060019361084,74.0,,
+S3 −Detected duplicates,Closed only,6,14467,4.0,41.06110458284371,72.0,,
+S3 −Detected duplicates,Closed only,7,20361,3.0,44.76140661067728,56.0,,
+S3 −Detected duplicates,Closed only,8,33621,2.0,31.739686505457897,41.0,,
+S3 −Detected duplicates,Closed only,9,54339,1.0,39.54377150849298,60.0,,
+S3 −Detected duplicates,Closed only,0,294272,2.0,42.96310556220096,59.0,,
+S4 District repair,All,1,28354,2.0,51.68395993510616,79.0,2.0,2.0
+S4 District repair,All,2,45787,2.0,46.07163605390176,58.0,2.0,2.0
+S4 District repair,All,3,69886,2.0,40.54750593824228,51.0,2.0,2.0
+S4 District repair,All,4,32237,2.0,32.068927009337095,47.0,2.0,2.0
+S4 District repair,All,5,11164,4.0,52.31440343962738,66.0,3.9750000000000014,4.0
+S4 District repair,All,6,15745,4.0,38.39765004763417,67.0,3.0,4.0
+S4 District repair,All,7,21939,3.0,41.93422671954055,52.0,3.0,3.0
+S4 District repair,All,8,36563,2.0,30.198369936821376,38.0,1.0,2.0
+S4 District repair,All,9,58167,1.0,37.44599171351454,56.0,1.0,1.0
+S4 District repair,All,0,319842,2.0,40.123892421883305,54.0,,
+S4 District repair,Closed only,1,26669,2.0,54.37500468708988,85.0,2.0,2.0
+S4 District repair,Closed only,2,42398,2.0,49.19239115052597,63.0,2.0,2.0
+S4 District repair,Closed only,3,61814,2.0,45.17282492639208,62.0,2.0,2.0
+S4 District repair,Closed only,4,30299,2.0,33.66210105944091,50.0,2.0,2.0
+S4 District repair,Closed only,5,10335,5.0,55.50227382680213,74.0,4.0,5.0
+S4 District repair,Closed only,6,14476,4.0,41.042415031776734,72.0,4.0,5.0
+S4 District repair,Closed only,7,20373,3.0,44.77077504540323,56.0,3.0,3.0
+S4 District repair,Closed only,8,34253,2.0,31.563892213820687,41.0,2.0,2.0
+S4 District repair,Closed only,9,54396,1.0,39.49876829178616,60.0,1.0,2.0
+S4 District repair,Closed only,0,295013,2.0,42.905299088514745,59.0,,
+Naive (timestamp trap),All,1,23646,6.0,83.57214750909245,148.5,6.0,6.0
+Naive (timestamp trap),All,2,38520,6.0,74.63660436137071,108.0,6.0,7.0
+Naive (timestamp trap),All,3,59303,5.0,69.45218623003895,143.0,5.0,5.0
+Naive (timestamp trap),All,4,25006,7.0,53.057786131328484,86.0,6.0,7.0
+Naive (timestamp trap),All,5,10818,7.0,72.74939914956553,132.3000000000011,7.0,7.0
+Naive (timestamp trap),All,6,15925,8.0,49.31158555729984,90.0,8.0,9.0
+Naive (timestamp trap),All,7,19753,7.0,57.941679744848884,82.0,7.0,7.0
+Naive (timestamp trap),All,8,27739,7.0,51.825624571902374,71.0,7.0,7.0
+Naive (timestamp trap),All,9,45336,6.0,64.37149285336157,128.0,6.0,6.0
+Naive (timestamp trap),All,0,266046,6.0,65.28714583192381,111.0,,
+Naive (timestamp trap),Closed only,1,23077,6.0,84.911080296399,151.0,6.0,7.0
+Naive (timestamp trap),Closed only,2,36780,7.0,77.45070690592713,113.0,7.0,7.0
+Naive (timestamp trap),Closed only,3,54769,5.0,74.13202724168782,157.0,5.0,5.0
+Naive (timestamp trap),Closed only,4,24060,7.0,54.41961762261014,88.0,7.0,7.0
+Naive (timestamp trap),Closed only,5,10563,7.0,72.97131496733883,134.0,7.0,8.0
+Naive (timestamp trap),Closed only,6,15305,9.0,50.562299901992816,93.0,8.0,9.0
+Naive (timestamp trap),Closed only,7,19048,7.0,59.56588618227635,84.0,7.0,8.0
+Naive (timestamp trap),Closed only,8,26308,7.0,53.43157974760529,73.0,7.0,8.0
+Naive (timestamp trap),Closed only,9,42922,6.0,67.10679837845395,134.0,6.0,7.0
+Naive (timestamp trap),Closed only,0,252832,6.0,67.80352961650424,117.0,,

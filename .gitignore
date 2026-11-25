@@ -1,0 +1,12 @@
+# raw data is 128 MB (over GitHub's 100 MB limit): download with src/get_data.py
+data/*.csv
+__pycache__/
+.pytest_cache/
+*.npy
+results/smoke_*
+results/pytest.xml
+report/*.aux
+report/*.log
+report/*.out
+report/*.pdf
+.ipynb_checkpoints/

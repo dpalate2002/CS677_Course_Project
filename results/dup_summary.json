@@ -1,0 +1,30 @@
+{
+  "candidate_pairs": 779095,
+  "labeled_pairs_with_parent_in_data": 39796,
+  "blocking_recall_pairs": 0.8316916272992261,
+  "best_threshold_train": 0.7,
+  "test_H2": {
+    "threshold": 0.7,
+    "split": "test_H2",
+    "precision": 0.32488847390808173,
+    "recall": 0.7206038013714391,
+    "f1": 0.4478576740461072,
+    "flagged": 48195
+  },
+  "train_H1": {
+    "threshold": 0.7,
+    "split": "train_H1",
+    "precision": 0.3040248078041217,
+    "recall": 0.6964972866304884,
+    "f1": 0.42328391323249437,
+    "flagged": 46437
+  },
+  "pairs_all": {
+    "threshold": 0.7,
+    "split": "pairs_all",
+    "precision": 0.0988753290260828,
+    "recall": 0.6229771836365464,
+    "f1": 0.1706638764215106,
+    "flagged": 250740
+  }
+}

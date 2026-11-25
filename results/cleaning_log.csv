@@ -1,0 +1,7 @@
+step,records
+S1 Remove hard rule violations,255
+S2 Remove City-labeled duplicates,41993
+S3 Remove high-confidence unlabeled resident duplicates,16185
+S4 Impute missing districts from neighbours,750
+S4 Reassign spatially inconsistent districts,313
+Naive: drop 'closed before opened' by full timestamp,111985

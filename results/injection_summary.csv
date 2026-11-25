@@ -1,0 +1,115 @@
+,,,precision,precision,recall,recall,f1,f1,ap,ap
+,,,mean,std,mean,std,mean,std,mean,std
+rate,error,detector,,,,,,,,
+0.01,impossible_date,All combined,0.107,0.002,1.0,0.0,0.194,0.003,,
+0.01,impossible_date,Duplicate detector,0.01,0.001,0.039,0.004,0.016,0.002,,
+0.01,impossible_date,Isolation Forest,0.082,0.017,0.411,0.085,0.137,0.028,0.065,0.013
+0.01,impossible_date,LOF,0.065,0.005,0.323,0.025,0.108,0.008,0.058,0.006
+0.01,impossible_date,Rules,1.0,0.0,1.0,0.0,1.0,0.0,,
+0.01,impossible_date,Rules+kNN+Dup,0.209,0.005,1.0,0.0,0.345,0.007,,
+0.01,impossible_date,Spatial kNN,0.025,0.024,0.002,0.001,0.003,0.003,,
+0.01,inflated_response,All combined,0.112,0.001,0.976,0.009,0.2,0.002,,
+0.01,inflated_response,Duplicate detector,0.0,0.0,0.0,0.001,0.0,0.0,,
+0.01,inflated_response,Isolation Forest,0.195,0.002,0.976,0.009,0.326,0.003,0.394,0.031
+0.01,inflated_response,LOF,0.01,0.001,0.053,0.007,0.017,0.002,0.012,0.001
+0.01,inflated_response,Rules,0.0,0.0,0.0,0.0,0.0,0.0,,
+0.01,inflated_response,Rules+kNN+Dup,0.0,0.0,0.002,0.001,0.001,0.001,,
+0.01,inflated_response,Spatial kNN,0.015,0.021,0.001,0.001,0.002,0.003,,
+0.01,invalid_district,All combined,0.105,0.001,1.0,0.0,0.189,0.002,,
+0.01,invalid_district,Duplicate detector,0.01,0.003,0.038,0.01,0.016,0.004,,
+0.01,invalid_district,Isolation Forest,0.038,0.005,0.188,0.026,0.062,0.009,0.036,0.005
+0.01,invalid_district,LOF,0.098,0.005,0.49,0.026,0.163,0.009,0.094,0.007
+0.01,invalid_district,Rules,1.0,0.0,1.0,0.0,1.0,0.0,,
+0.01,invalid_district,Rules+kNN+Dup,0.207,0.005,1.0,0.0,0.343,0.007,,
+0.01,invalid_district,Spatial kNN,0.939,0.016,0.989,0.006,0.964,0.009,,
+0.01,missing_required,All combined,0.103,0.001,1.0,0.0,0.187,0.002,,
+0.01,missing_required,Duplicate detector,0.005,0.002,0.02,0.007,0.008,0.003,,
+0.01,missing_required,Isolation Forest,0.009,0.004,0.044,0.022,0.015,0.007,0.011,0.001
+0.01,missing_required,LOF,0.009,0.002,0.046,0.01,0.015,0.003,0.011,0.001
+0.01,missing_required,Rules,1.0,0.0,1.0,0.0,1.0,0.0,,
+0.01,missing_required,Rules+kNN+Dup,0.208,0.005,1.0,0.0,0.344,0.007,,
+0.01,missing_required,Spatial kNN,0.0,0.0,0.0,0.0,0.0,0.0,,
+0.01,near_duplicate,All combined,0.103,0.001,1.0,0.0,0.186,0.002,,
+0.01,near_duplicate,Duplicate detector,0.208,0.004,1.0,0.0,0.345,0.006,,
+0.01,near_duplicate,Isolation Forest,0.017,0.005,0.086,0.023,0.029,0.008,0.015,0.001
+0.01,near_duplicate,LOF,0.042,0.005,0.214,0.026,0.071,0.009,0.029,0.004
+0.01,near_duplicate,Rules,0.0,0.0,0.0,0.0,0.0,0.0,,
+0.01,near_duplicate,Rules+kNN+Dup,0.206,0.004,1.0,0.0,0.341,0.006,,
+0.01,near_duplicate,Spatial kNN,0.033,0.02,0.002,0.001,0.004,0.002,,
+0.01,out_of_bounds,All combined,0.113,0.001,1.0,0.0,0.204,0.002,,
+0.01,out_of_bounds,Duplicate detector,0.018,0.003,0.068,0.011,0.029,0.005,,
+0.01,out_of_bounds,Isolation Forest,0.185,0.005,0.927,0.026,0.309,0.009,0.259,0.032
+0.01,out_of_bounds,LOF,0.036,0.005,0.182,0.024,0.06,0.008,0.101,0.019
+0.01,out_of_bounds,Rules,1.0,0.0,1.0,0.0,1.0,0.0,,
+0.01,out_of_bounds,Rules+kNN+Dup,0.208,0.005,1.0,0.0,0.345,0.006,,
+0.01,out_of_bounds,Spatial kNN,0.0,0.0,0.0,0.0,0.0,0.0,,
+0.01,swapped_coords,All combined,0.114,0.001,1.0,0.0,0.205,0.002,,
+0.01,swapped_coords,Duplicate detector,0.0,0.0,0.0,0.001,0.0,0.0,,
+0.01,swapped_coords,Isolation Forest,0.2,0.0,1.0,0.0,0.333,0.0,0.901,0.052
+0.01,swapped_coords,LOF,0.02,0.001,0.1,0.007,0.033,0.002,0.015,0.001
+0.01,swapped_coords,Rules,1.0,0.0,1.0,0.0,1.0,0.0,,
+0.01,swapped_coords,Rules+kNN+Dup,0.208,0.005,1.0,0.0,0.345,0.006,,
+0.01,swapped_coords,Spatial kNN,0.0,0.0,0.0,0.0,0.0,0.0,,
+0.01,wrong_district,All combined,0.103,0.001,0.993,0.004,0.186,0.002,,
+0.01,wrong_district,Duplicate detector,0.01,0.004,0.04,0.014,0.016,0.006,,
+0.01,wrong_district,Isolation Forest,0.01,0.002,0.051,0.011,0.017,0.004,0.011,0.001
+0.01,wrong_district,LOF,0.073,0.005,0.367,0.024,0.122,0.008,0.098,0.017
+0.01,wrong_district,Rules,0.0,0.0,0.0,0.0,0.0,0.0,,
+0.01,wrong_district,Rules+kNN+Dup,0.206,0.005,0.992,0.003,0.341,0.007,,
+0.01,wrong_district,Spatial kNN,0.94,0.017,0.992,0.003,0.965,0.01,,
+0.05,impossible_date,All combined,0.415,0.008,1.0,0.0,0.587,0.008,,
+0.05,impossible_date,Duplicate detector,0.048,0.003,0.035,0.003,0.041,0.003,,
+0.05,impossible_date,Isolation Forest,0.291,0.036,0.291,0.036,0.291,0.036,0.241,0.023
+0.05,impossible_date,LOF,0.114,0.007,0.114,0.007,0.114,0.007,0.073,0.002
+0.05,impossible_date,Rules,1.0,0.0,1.0,0.0,1.0,0.0,,
+0.05,impossible_date,Rules+kNN+Dup,0.586,0.007,1.0,0.0,0.739,0.005,,
+0.05,impossible_date,Spatial kNN,0.042,0.03,0.001,0.001,0.001,0.001,,
+0.05,inflated_response,All combined,0.414,0.01,0.708,0.016,0.523,0.012,,
+0.05,inflated_response,Duplicate detector,0.005,0.002,0.004,0.001,0.004,0.001,,
+0.05,inflated_response,Isolation Forest,0.707,0.016,0.707,0.016,0.707,0.016,0.703,0.015
+0.05,inflated_response,LOF,0.022,0.004,0.022,0.004,0.022,0.004,0.043,0.001
+0.05,inflated_response,Rules,0.0,0.0,0.0,0.0,0.0,0.0,,
+0.05,inflated_response,Rules+kNN+Dup,0.006,0.002,0.004,0.001,0.005,0.002,,
+0.05,inflated_response,Spatial kNN,0.052,0.042,0.001,0.001,0.001,0.001,,
+0.05,invalid_district,All combined,0.388,0.004,1.0,0.0,0.559,0.004,,
+0.05,invalid_district,Duplicate detector,0.052,0.004,0.04,0.004,0.045,0.004,,
+0.05,invalid_district,Isolation Forest,0.144,0.016,0.144,0.016,0.144,0.016,0.135,0.009
+0.05,invalid_district,LOF,0.116,0.006,0.116,0.006,0.116,0.006,0.085,0.004
+0.05,invalid_district,Rules,1.0,0.0,1.0,0.0,1.0,0.0,,
+0.05,invalid_district,Rules+kNN+Dup,0.577,0.006,1.0,0.0,0.732,0.005,,
+0.05,invalid_district,Spatial kNN,0.988,0.003,0.989,0.004,0.989,0.002,,
+0.05,missing_required,All combined,0.377,0.003,1.0,0.0,0.547,0.003,,
+0.05,missing_required,Duplicate detector,0.028,0.001,0.02,0.001,0.024,0.001,,
+0.05,missing_required,Isolation Forest,0.046,0.003,0.046,0.003,0.046,0.003,0.051,0.002
+0.05,missing_required,LOF,0.037,0.005,0.037,0.005,0.037,0.005,0.047,0.0
+0.05,missing_required,Rules,1.0,0.0,1.0,0.0,1.0,0.0,,
+0.05,missing_required,Rules+kNN+Dup,0.582,0.007,1.0,0.0,0.736,0.006,,
+0.05,missing_required,Spatial kNN,0.032,0.073,0.001,0.001,0.001,0.003,,
+0.05,near_duplicate,All combined,0.366,0.003,1.0,0.0,0.535,0.003,,
+0.05,near_duplicate,Duplicate detector,0.568,0.006,1.0,0.0,0.724,0.005,,
+0.05,near_duplicate,Isolation Forest,0.07,0.003,0.073,0.004,0.072,0.004,0.066,0.001
+0.05,near_duplicate,LOF,0.148,0.004,0.155,0.004,0.151,0.004,0.102,0.002
+0.05,near_duplicate,Rules,0.0,0.0,0.0,0.0,0.0,0.0,,
+0.05,near_duplicate,Rules+kNN+Dup,0.564,0.007,1.0,0.0,0.721,0.006,,
+0.05,near_duplicate,Spatial kNN,0.09,0.078,0.001,0.001,0.003,0.002,,
+0.05,out_of_bounds,All combined,0.493,0.003,1.0,0.0,0.661,0.003,,
+0.05,out_of_bounds,Duplicate detector,0.191,0.008,0.163,0.011,0.176,0.01,,
+0.05,out_of_bounds,Isolation Forest,0.675,0.029,0.675,0.029,0.675,0.029,0.656,0.024
+0.05,out_of_bounds,LOF,0.221,0.006,0.221,0.006,0.221,0.006,0.198,0.011
+0.05,out_of_bounds,Rules,1.0,0.0,1.0,0.0,1.0,0.0,,
+0.05,out_of_bounds,Rules+kNN+Dup,0.587,0.006,1.0,0.0,0.74,0.004,,
+0.05,out_of_bounds,Spatial kNN,0.0,0.0,0.0,0.0,0.0,0.0,,
+0.05,swapped_coords,All combined,0.544,0.01,1.0,0.0,0.705,0.009,,
+0.05,swapped_coords,Duplicate detector,0.004,0.002,0.003,0.002,0.003,0.002,,
+0.05,swapped_coords,Isolation Forest,0.863,0.02,0.863,0.02,0.863,0.02,0.869,0.015
+0.05,swapped_coords,LOF,0.077,0.009,0.077,0.009,0.077,0.009,0.061,0.003
+0.05,swapped_coords,Rules,1.0,0.0,1.0,0.0,1.0,0.0,,
+0.05,swapped_coords,Rules+kNN+Dup,0.588,0.007,1.0,0.0,0.741,0.005,,
+0.05,swapped_coords,Spatial kNN,0.0,0.0,0.0,0.0,0.0,0.0,,
+0.05,wrong_district,All combined,0.374,0.003,0.989,0.002,0.542,0.004,,
+0.05,wrong_district,Duplicate detector,0.056,0.005,0.042,0.004,0.048,0.005,,
+0.05,wrong_district,Isolation Forest,0.055,0.004,0.055,0.004,0.055,0.004,0.058,0.001
+0.05,wrong_district,LOF,0.284,0.01,0.284,0.01,0.284,0.01,0.222,0.01
+0.05,wrong_district,Rules,0.0,0.0,0.0,0.0,0.0,0.0,,
+0.05,wrong_district,Rules+kNN+Dup,0.575,0.007,0.988,0.002,0.727,0.006,,
+0.05,wrong_district,Spatial kNN,0.988,0.003,0.988,0.002,0.988,0.002,,

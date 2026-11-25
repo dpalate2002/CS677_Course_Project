@@ -1,0 +1,37 @@
+scope,stage,stat,kendall_tau,districts_changed_rank
+All,S0 Raw,median,1.0,0
+All,S0 Raw,mean,1.0,0
+All,S0 Raw,p90,1.0,0
+All,S1 −Rule violations,median,1.0,0
+All,S1 −Rule violations,mean,1.0,0
+All,S1 −Rule violations,p90,1.0,0
+All,S2 −City duplicates,median,0.894427190999916,5
+All,S2 −City duplicates,mean,0.8888888888888888,4
+All,S2 −City duplicates,p90,0.8574929257125441,5
+All,S3 −Detected duplicates,median,0.894427190999916,5
+All,S3 −Detected duplicates,mean,0.8888888888888888,4
+All,S3 −Detected duplicates,p90,0.7777777777777778,6
+All,S4 District repair,median,0.894427190999916,5
+All,S4 District repair,mean,0.8888888888888888,4
+All,S4 District repair,p90,0.7777777777777778,6
+All,Naive (timestamp trap),median,0.6454972243679027,8
+All,Naive (timestamp trap),mean,0.7222222222222222,8
+All,Naive (timestamp trap),p90,0.6666666666666666,6
+Closed only,S0 Raw,median,1.0,0
+Closed only,S0 Raw,mean,1.0,0
+Closed only,S0 Raw,p90,1.0,0
+Closed only,S1 −Rule violations,median,1.0,0
+Closed only,S1 −Rule violations,mean,1.0,0
+Closed only,S1 −Rule violations,p90,1.0,0
+Closed only,S2 −City duplicates,median,0.7699188535494524,6
+Closed only,S2 −City duplicates,mean,0.9444444444444445,2
+Closed only,S2 −City duplicates,p90,0.7247137945655605,5
+Closed only,S3 −Detected duplicates,median,0.8376105968386143,7
+Closed only,S3 −Detected duplicates,mean,0.9444444444444445,2
+Closed only,S3 −Detected duplicates,p90,0.7606388292556648,6
+Closed only,S4 District repair,median,0.8376105968386143,7
+Closed only,S4 District repair,mean,0.9444444444444445,2
+Closed only,S4 District repair,p90,0.7606388292556648,6
+Closed only,Naive (timestamp trap),median,0.48280787926033486,8
+Closed only,Naive (timestamp trap),mean,0.6666666666666666,9
+Closed only,Naive (timestamp trap),p90,0.6857142857142857,7
