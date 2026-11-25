@@ -1,4 +1,4 @@
-# Rules vs. Learned Detectors — San Diego "Get It Done" 311 data quality (CS 677)
+# Rules vs. Learned Detectors - San Diego "Get It Done" 311 data quality (CS 677)
 
 Devashish Palate, Mohammadreza Ghassemzadeh
 
